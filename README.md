@@ -67,6 +67,7 @@ References:
 **III.** Fluentbit Helm Chart: https://artifacthub.io/packages/helm/fluent/fluent-bit/0.15.15
 
 Troubleshooting Fluent Bit: 
+
 **IV.** https://kube-logging.dev/docs/operation/troubleshooting/fluentbit/
 
 **V.** https://calyptia.com/blog/troubleshooting-your-fluent-bit-configuration-with-calyptia-cloud
