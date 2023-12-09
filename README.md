@@ -59,6 +59,7 @@ kubectl delete pod fluent-bit-4dnc2 -n logging
 ```
 
 References:
+
 **I.** Fluentbit: https://docs.fluentbit.io/manual/administration/configuring-fluent-bit/classic-mode/configuration-file
 
 **II.** S3-Plugin: https://docs.fluentbit.io/manual/pipeline/outputs/s3
